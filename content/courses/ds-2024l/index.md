@@ -7,7 +7,7 @@ author: ["Course Author 1", "Course Author 2"]
 description: "Introduction to Big Data concepts and technologies. The course covers the basics of big data, cloud computing, and Apache Spark." 
 summary: "Introduction to Big Data concepts and technologies. The course covers the basics of big data, cloud computing, and Apache Spark."
 cover:
-    image: "big-data.jpg"
+    image: "/big-data-ds.jpg"
     relative: false
 disableAnchoredHeadings: false
 showToc: true
