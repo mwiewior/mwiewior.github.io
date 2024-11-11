@@ -51,7 +51,7 @@ params:
     profileMode:
           enabled: true
           title: Marek Wiewiórka, PhD
-          subtitle: "I am an Assistant Professor in the **[Institute of Computer Science](https://www.ii.pw.edu.pl/)** at the **[Warsaw University of Technology](https://eng.pw.edu.pl/)**. My research focuses on design and application of *distributed systems*, *artificial intelligence* and *cloud computing* for large scale **genomic** studies."
+          subtitle: "I am an Assistant Professor in the **[Institute of Computer Science](https://www.ii.pw.edu.pl/)** at the **[Warsaw University of Technology](https://eng.pw.edu.pl/)** and a Chief Architect at **[GetInData | part of Xebia ](https://getindata.com/)**. My research focuses on design and application of *distributed systems*, *artificial intelligence* and *cloud computing* for large scale **genomic** studies."
           imageUrl: "gravel_round.jpeg"
           imageWidth: 200
           imageHeight: 200
