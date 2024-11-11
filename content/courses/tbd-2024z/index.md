@@ -7,7 +7,7 @@ author: ["Tomasz Gambin", "Piotr Gawrysiak", "Dominik Ryżko", "Marek Wiewiórka
 description: "The aim of the course is to familiarize students with the techniques used in Big Data analyses. The main focus will be on discussing issues related to the use of tools and designing own solutions within the Hadoop ecosystem and cloud resources. As part of the lecture and project implementation, students will learn about how to organize data in Big Data systems, including SQL interfaces, distributed formats and databases. Students will learn how to design and implement their own distributed algorithms using Apache Spark." 
 summary: "The aim of the course is to familiarize students with the techniques used in Big Data analyses. The main focus will be on discussing issues related to the use of tools and designing own solutions within the Hadoop ecosystem and cloud resources. As part of the lecture and project implementation, students will learn about how to organize data in Big Data systems, including SQL interfaces, distributed formats and databases. Students will learn how to design and implement their own distributed algorithms using Apache Spark."
 cover:
-    image: "big_data.png"
+    image: "/big_data-tbd.png"
     relative: false
 disableAnchoredHeadings: false
 showToc: true
