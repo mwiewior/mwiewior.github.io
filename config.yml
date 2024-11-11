@@ -10,24 +10,22 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
-        - name: Papers
+        - name: Publications
           url: papers/
           weight: 2
-        - name: Courses
+        - name: Teaching
           url: courses/
           weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+        - name: Talks
+          url: talks/
+          weight: 4
+        - name: Software
+          url: software/
+          weight: 5
+
 
 params:
-    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
+    description: "I am an Assistant Professor in the Institute of Computer Science at the Warsaw University of Technology."
     author: Marek Wiewiórka
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -53,15 +51,19 @@ params:
     profileMode:
           enabled: true
           title: Marek Wiewiórka, PhD
-          subtitle: "I am an Assistant Professor in the Institute of Computer Science at the Warsaw University of Technology. My research focuses on design of distributed systems, artificial intelligence and cloud computing for large scale genomic studies."
+          subtitle: "I am an Assistant Professor in the **[Institute of Computer Science](https://www.ii.pw.edu.pl/)** at the **[Warsaw University of Technology](https://eng.pw.edu.pl/)**. My research focuses on design and application of *distributed systems*, *artificial intelligence* and *cloud computing* for large scale **genomic** studies."
           imageUrl: "gravel_round.jpeg"
           imageWidth: 200
           imageHeight: 200
           buttons:
-            - name: Papers
+            - name: Publications
               url: papers/
             - name: Teaching
-              url: teaching/
+              url: courses/
+            - name: Talks
+              url: talks/
+            - name: Software
+              url: software/
             - name: Tags
               url: tags/
             - name: Archive
