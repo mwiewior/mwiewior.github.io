@@ -27,7 +27,7 @@ menu:
 params:
     description: "I am an Assistant Professor in the Institute of Computer Science at the Warsaw University of Technology."
     author: Marek Wiewiórka
-    # googleAnalyticsID: "G-XXXXX"
+    googleAnalyticsID: "G-H27HE5V344"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
