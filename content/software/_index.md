@@ -9,3 +9,5 @@ If you are new to Apache Spark and distributed processing we highly recommend yo
 Beware that SeQuiLa is just an extension to Apache Spark - the combination of two gives you almost unlimited analytical power to crunch NGS data at any scale!
 [![sequila-page.png](sequila-page.png)](https://biodatageeks.org/sequila/)
 
+## [polars-bio](https://biodatageeks.org/polars-bio/)
+[![sequila-page.png](polars-bio-page.png)](https://biodatageeks.org/polars-bio/)
