@@ -3,6 +3,9 @@ title: "Papers"
 description: "Preprints, posters and articles by Marek Wiewiórka."
 ---
 
+
+## 2025
+* Wiewiórka M., Khamutou P., Zbysinski M. & Gambin T. (2025) *polars-bio - fast, scalable and out-of-core operations on large genomic interval datasets*, bioRxiv, [[pdf](https://www.biorxiv.org/content/10.1101/2025.03.21.644629v1.full.pdf)]
 ## 2024
 * Wiewiórka M., Sitek W., Małanij R. & Gambin T. (2024). *PhenoAgent - Agent-based architecture for high-throughput deep phenotyping with Large Language Models*, Symposium of the Polish Bioinformatics Society, Warsaw, Poland, Sep 13, 2024[[pdf](2024/poster_pheno_agent_ptbi_2024.pdf)]
 ## 2023
