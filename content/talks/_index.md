@@ -3,6 +3,9 @@ title: "Talks"
 description: "Given talks at conferences and seminars"
 ---
 
+## 2025
+- *polars-bio: High-Performance Python DataFrame Operations for Genomics* [[slides](slides/2025/2025-sep-15-polars_bio_seminar_jgi.pdf)][[recording](https://drive.google.com/file/d/1p6Ehj9y9Gpn3Fs9DwEwOY7_f4n6ZgD7R/view?usp=sharing)], Demystify AI and Data Management Seminar Series, Joint Genome Institute Seminar, Sep 15, 2025
+
 ## 2024
 - *LLMOps: from Demo to Production-Ready GenAI Systems* [[slides](slides/2024/LLMOps_webinar-22.10.2024.pdf)], [LLMOps Webinar](https://webinars.getindata.com/llmops), Oct 22, 2024
 - *Od dema do produkcyjnych systemów GenAI czyli o LLMOps* (in Polish) [[slides](slides/2024/ai_summit_pl_2024.pdf)], [AI Summit Poland 2024](https://aisummitpoland.pl/), Warsaw, Poland, Oct 9, 2024 
