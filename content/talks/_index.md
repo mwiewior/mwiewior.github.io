@@ -4,6 +4,7 @@ description: "Given talks at conferences and seminars"
 ---
 
 ## 2025
+- The Agentic AI Paradigm Shift in (Data) Engineering [[slides]](slides/2025/2025-oct-15-agentic-ai-data.pdf), Warsaw, Oct 28, 2025 
 - *polars-bio: High-Performance Python DataFrame Operations for Genomics* [[slides](slides/2025/2025-sep-15-polars_bio_seminar_jgi.pdf)][[recording](https://drive.google.com/file/d/1p6Ehj9y9Gpn3Fs9DwEwOY7_f4n6ZgD7R/view?usp=sharing)], Demystify AI and Data Management Seminar Series, Joint Genome Institute Seminar, Sep 15, 2025
 
 ## 2024
